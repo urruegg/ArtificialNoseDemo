@@ -1,0 +1,11 @@
+baseName="zurusean"
+resource_group_name="zurusean"
+
+# Create / Update the deployment (replace AAD Group ID)
+az deployment group create -n "$baseName-main" -f main.bicep \
+    --resource-group "$resource_group_name" \
+    --parameters baseName="$baseName" 
+   
+# Cleanup. Delete the Deployment
+# az deployment group delete -n "$baseline-main" \
+    --resource-group "$resource_group_name"
