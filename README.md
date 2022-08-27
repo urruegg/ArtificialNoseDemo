@@ -1,4 +1,4 @@
-![Featured on MAKE:](_assets/FeaturedonMakebadge_32x32.png) [![PlatformIO CI](https://github.com/kartben/artificial-nose/actions/workflows/platformio.yml/badge.svg)](https://github.com/kartben/artificial-nose/actions/workflows/platformio.yml)
+![Featured on MAKE:](_assets/FeaturedonMakebadge_32x32.png) [![PlatformIO CI](https://github.com/urruegg/ArtificialNoseDemo/actions/workflows/platformio.yml/badge.svg)](https://github.com/urruegg/ArtificialNoseDemo/actions/workflows/platformio.yml)
 
 # Artificial Nose
 
